@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
-
+    private static final String nmb = "THIS IS TO CHANGE A coMMIT";
 
     Adapter adapter;
     Boolean isScrolling = false;
